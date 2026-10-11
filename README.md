@@ -12,7 +12,7 @@ Components
 - Servo Motor
 - Jumper Wires
 
-Working Principle
+Working Principle 
 
 The RFID reader scans the card. If the card is authorized, the door lock opens. Otherwise, access is denied.
 
